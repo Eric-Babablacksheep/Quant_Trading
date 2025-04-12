@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/10273f6e-73e2-4244-a782-016862b9db04)![image](https://github.com/user-attachments/assets/be51a56b-e904-41ae-9ccb-02b608ecdeb1)# Quant Trading
+# Quant Trading
 
 ## Introduction
 This is a self-learning trading strategic using Attention Long Short-Term Memory (Attention-LSTM) nueral network.
