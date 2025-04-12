@@ -1,0 +1,120 @@
+Iteration No: 1 started. Evaluating function at random point.
+Iteration No: 1 ended. Evaluation done at random point.
+Time taken: 181.8271
+Function value obtained: 0.0235
+Current minimum: 0.0235
+Iteration No: 2 started. Evaluating function at random point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 2 ended. Evaluation done at random point.
+Time taken: 94.9729
+Function value obtained: 0.0228
+Current minimum: 0.0228
+Iteration No: 3 started. Evaluating function at random point.
+Iteration No: 3 ended. Evaluation done at random point.
+Time taken: 125.0853
+Function value obtained: 0.0232
+Current minimum: 0.0228
+Iteration No: 4 started. Evaluating function at random point.
+Iteration No: 4 ended. Evaluation done at random point.
+Time taken: 213.2013
+Function value obtained: 0.0234
+Current minimum: 0.0228
+Iteration No: 5 started. Evaluating function at random point.
+Iteration No: 5 ended. Evaluation done at random point.
+Time taken: 108.7521
+Function value obtained: 0.0236
+Current minimum: 0.0228
+Iteration No: 6 started. Evaluating function at random point.
+Iteration No: 6 ended. Evaluation done at random point.
+Time taken: 156.7443
+Function value obtained: 0.0234
+Current minimum: 0.0228
+Iteration No: 7 started. Evaluating function at random point.
+Iteration No: 7 ended. Evaluation done at random point.
+Time taken: 225.9136
+Function value obtained: 0.0236
+Current minimum: 0.0228
+Iteration No: 8 started. Evaluating function at random point.
+Iteration No: 8 ended. Evaluation done at random point.
+Time taken: 127.1226
+Function value obtained: 0.0231
+Current minimum: 0.0228
+Iteration No: 9 started. Evaluating function at random point.
+Iteration No: 9 ended. Evaluation done at random point.
+Time taken: 468.0458
+Function value obtained: 0.0232
+Current minimum: 0.0228
+Iteration No: 10 started. Evaluating function at random point.
+Iteration No: 10 ended. Evaluation done at random point.
+Time taken: 2587.2530
+Function value obtained: 0.0231
+Current minimum: 0.0228
+Iteration No: 11 started. Searching for the next optimal point.
+Iteration No: 11 ended. Search finished for the next optimal point.
+Time taken: 523.0825
+Function value obtained: 0.0233
+Current minimum: 0.0228
+Iteration No: 12 started. Searching for the next optimal point.
+Iteration No: 12 ended. Search finished for the next optimal point.
+Time taken: 361.1388
+Function value obtained: 0.0230
+Current minimum: 0.0228
+Iteration No: 13 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 13 ended. Search finished for the next optimal point.
+Time taken: 208.5988
+Function value obtained: 0.0238
+Current minimum: 0.0228
+Iteration No: 14 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 14 ended. Search finished for the next optimal point.
+Time taken: 83.1517
+Function value obtained: 0.0228
+Current minimum: 0.0228
+Iteration No: 15 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 15 ended. Search finished for the next optimal point.
+Time taken: 161.8008
+Function value obtained: 0.0229
+Current minimum: 0.0228
+Iteration No: 16 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 16 ended. Search finished for the next optimal point.
+Time taken: 59.2099
+Function value obtained: 0.0229
+Current minimum: 0.0228
+Iteration No: 17 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 17 ended. Search finished for the next optimal point.
+Time taken: 92.8623
+Function value obtained: 0.0230
+Current minimum: 0.0228
+Iteration No: 18 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 18 ended. Search finished for the next optimal point.
+Time taken: 98.7948
+Function value obtained: 0.0237
+Current minimum: 0.0228
+Iteration No: 19 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 19 ended. Search finished for the next optimal point.
+Time taken: 73.0746
+Function value obtained: 0.0232
+Current minimum: 0.0228
+Iteration No: 20 started. Searching for the next optimal point.
+c:\Users\User\Anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:82: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn("dropout option adds dropout after all but last "
+Iteration No: 20 ended. Search finished for the next optimal point.
+Time taken: 95.9687
+Function value obtained: 0.0234
+Current minimum: 0.0228
+Best parameters: [1, 135, 70, 64, 'rmsprop']
+Best validation MSE: 0.022796981036663055
