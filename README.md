@@ -1,6 +1,10 @@
 # Quant Trading
+
 ## Introduction
 This is a self-learning trading strategic using Attention Long Short-Term Memory (Attention-LSTM) nueral network.
+
+## Presentation Slide and Demo Video
+https://www.canva.com/design/DAGkZ1hgpfk/cw0q9QSaqrrL4AWxCMNaag/edit
 
 ## Library
 pip install numpy <br>
